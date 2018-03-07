@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Quiz</string>
-    <string name="quistion1">Frage 1:</string>
+    <string name="question1">Frage 1:</string>
+    <string name="question1text">Ist Kyōto die Hauptstadt von Japan?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
 </resources>
